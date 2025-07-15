@@ -3,7 +3,6 @@
 
 **Analisi dei Tweet nel periodo pre-elezioni USA 2020**  
 Progetto sviluppato da: **Gianluca Ferrari**  
-Matricola: 248004
 
 ## 📄 Descrizione
 
